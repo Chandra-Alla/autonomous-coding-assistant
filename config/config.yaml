@@ -1,5 +1,5 @@
 openai:
-  api_key: "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"         # Your API key from OpenAI for GPT-4 and Codex
+  api_key: ""         # Your API key from OpenAI for GPT-4 and Codex
   gpt4_endpoint: "https://api.openai.com/v1/engines/gpt-4/completions"
   codex_endpoint: "https://api.openai.com/v1/engines/code-davinci-002/completions"
 
