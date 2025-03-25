@@ -1,5 +1,7 @@
+
+
 openai:
-  api_key: "${OPENAI_API_KEY}"
+  api_key: ""
   gpt4_endpoint: "https://api.openai.com/v1/engines/gpt-4/completions"
   codex_endpoint: "https://api.openai.com/v1/engines/code-davinci-002/completions"
 
